@@ -76,9 +76,7 @@ The assignment and update steps are repeated iteratively until the centroids no 
 
 
 
-## Gaussian Mixture Models (GMM) `bishop2006pattern`
-
-### Introduction to Gaussian Mixture Models
+## Introduction to Gaussian Mixture Models (GMM)
 
 Gaussian Mixture Models (GMM) are a probabilistic model for representing normally distributed subpopulations within an overall population. The model assumes that the data is generated from a mixture of several Gaussian distributions, each with its own mean and variance {cite}`reynolds2009gaussian, mclachlan2004finite`. GMMs are widely used for clustering and density estimation, as they provide a method for representing complex distributions through the combination of simpler ones.
 
